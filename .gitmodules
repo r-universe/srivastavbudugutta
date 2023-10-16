@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "nRegression"]
+	path = nRegression
+	url = https://github.com/cran/nRegression
 [submodule "simitation"]
 	path = simitation
 	url = https://github.com/srivastavbudugutta/simitation
