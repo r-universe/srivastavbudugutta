@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "DTwrappers2"]
 	path = DTwrappers2
-	url = https://github.com/cran/DTwrappers2
+	url = https://github.com/srivastavbudugutta/dtwrappers2
 [submodule "nRegression"]
 	path = nRegression
 	url = https://github.com/cran/nRegression
