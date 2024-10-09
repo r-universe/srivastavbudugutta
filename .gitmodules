@@ -11,3 +11,6 @@
 [submodule "simitation"]
 	path = simitation
 	url = https://github.com/srivastavbudugutta/simitation
+[submodule "tvtools"]
+	path = tvtools
+	url = https://github.com/cran/tvtools
